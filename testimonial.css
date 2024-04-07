@@ -1,0 +1,99 @@
+body{
+  background-color: lightgray;
+  font-family: 'barlow semi condensed';
+  font-size: 13px;
+  display: flex;
+  height: 600px;
+  align-items: center;
+  justify-content: center;
+}
+
+.a{
+  background-color: lightskyblue;
+  width: 1000px;
+  height: 520px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.b{
+  display: flex;
+  column-gap: 10px;
+}
+
+.ca{
+  width: 600px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+.cb{
+  width: 160px;
+  height: 360px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.wl1{
+  display: flex;
+  height: 30px;
+  width: 110px;
+  align-items: center;
+  column-gap: 16px;
+}
+
+.kira-profile-pic{
+  width: 22px;
+  height: 22px;
+}
+
+.kira-img{
+  width: 22px;
+  height: 22px;
+  border-radius: 11px;
+}
+
+.kira-name{
+  flex: 1;
+  height: 22px;
+}
+
+.da{
+  height: 200px;
+  display: flex;
+  column-gap: 10px;
+}
+
+.db{
+  height: 200px;
+  display: flex;
+  column-gap: 10px;
+}
+
+.ea{
+  width: 360px;
+  height: 155px;
+  background-color: hsl(263, 55%, 52%);
+  padding: 20px;
+}
+
+.eb{
+  width: 200px;
+  background-color: rgb(116, 111, 111);
+}
+
+.fa{
+  width: 200px;
+  background-color: white;
+}
+
+.fb{
+  width: 400px;
+  background-color: black;
+}
